@@ -32,7 +32,7 @@ clients_logo_slider:
   enable: true
   title: My Clients
   item:
-  - logo: ''
-    URL: ''
+  - logo: ojj
+    URL: www.google.com
   - logo: ''
     URL: ''
