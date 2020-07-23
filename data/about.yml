@@ -29,6 +29,6 @@ team:
     image: images/team/member-3.png
     designation: Designer
 clients_logo_slider:
-  enable: false
+  enable: true
   title: My Clients
   item: []
