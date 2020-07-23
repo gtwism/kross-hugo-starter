@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "Atlanta, GA"
 author = "Johnathan Smith"
 copyright = "Copyright &copy; 2020"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "youknowwhos@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/experience/icon-1.png"
-phone = "+880 2544 658 256"
+phone = "18005554321"
 theme_color = "#41228e"
 [params.contact]
 enable = false
