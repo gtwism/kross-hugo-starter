@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyright &copy; <?php echo date(\"Y\"); ?>a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; <script type=\"text/javascript\">   document.write(new Date().getFullYear()); </script>a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
