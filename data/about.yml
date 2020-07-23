@@ -31,8 +31,4 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
-  item:
-  - logo: ojj
-    URL: www.google.com
-  - logo: ''
-    URL: ''
+  item: []
