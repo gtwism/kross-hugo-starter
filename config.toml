@@ -4,25 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Your test site"
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "about"
+name = "About"
 weight = 2
 [[menu.main]]
-name = "G"
-url = "http://gtwism.com"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 3
+weight = 4
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Atlanta, GA"
 author = "Johnathan Smith"
@@ -36,7 +32,7 @@ phone = "18005554321"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "http://www.google.com"
+form_action = "post"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
