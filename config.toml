@@ -18,7 +18,7 @@ weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = "5"
 [params]
 address = "Atlanta, GA"
 author = "Johnathan Smith"
@@ -32,7 +32,7 @@ phone = "18005554321"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "https://infallible-goodall-192075.netlify.app/contact/"
+form_action = "https://infallible-goodall-192075.netlify.app/"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
