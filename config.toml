@@ -32,7 +32,7 @@ phone = "18005554321"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "\\"
+form_action = "blog"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
