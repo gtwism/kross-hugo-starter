@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/experience/icon-1.png"
 phone = "18005554321"
-theme_color = "#41228e"
+theme_color = "#1887f0"
 [params.contact]
 enable = true
 form_action = "https://infallible-goodall-192075.netlify.app/"
