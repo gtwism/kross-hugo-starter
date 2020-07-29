@@ -49,7 +49,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = "https://youtu.be/mtQswjcYxwY"
+preloader = "static/images/spin.css"
 [[params.social]]
 URL = "https://www.facebook.com"
 icon = "ti-facebook"
