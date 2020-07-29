@@ -1,6 +1,6 @@
 baseURL = "https://infallible-goodall-192075.netlify.app/"
 languageCode = "en-us"
-summaryLength = "10"
+summaryLength = "5"
 theme = "kross-hugo"
 title = "Your test site"
 [[menu.main]]
