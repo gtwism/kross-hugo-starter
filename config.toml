@@ -32,7 +32,7 @@ phone = "18005554321"
 theme_color = "#1887f0"
 [params.contact]
 enable = true
-form_action = "https://infallible-goodall-192075.netlify.app/"
+form_action = "https://www.google.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
